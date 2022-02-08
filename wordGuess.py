@@ -1,9 +1,6 @@
 '''
 Name: Mahathir Maxim
-Net Id: MHM180000
-Course: CS 4395
-Date:2/6/2022
-Homework 2
+
 
 Instruction for running:
 created on python3
